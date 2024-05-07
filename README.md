@@ -1,1 +1,1 @@
-This is me experimenting with lighting in a 3D environment from November 2022,  I'm finally putting it on github because it was actually really cool and I dont want to lose it <3
+This is a small project from November 2022 where I experimented with lighting in a 3D environment in Unity.  I'm finally putting it on github because its a fun and useful simulation to understand 3D lighting and I dont want to build on it in the future!
